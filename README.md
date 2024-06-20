@@ -1,5 +1,4 @@
 # CampusMobinav
-# CampusMobinav
 
 ## Project Overview
 
